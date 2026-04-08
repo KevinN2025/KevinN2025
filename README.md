@@ -1,3 +1,33 @@
-## Hi there 👋
+# Kevin Noguera
 
-I am Kevin Noguera a 21 year old in Coconut Creek Florida. I work with computer hardware and refurbish and sell them for my contractor. As of late I have been interested in AI and how low level programming work. I have an associates degree in Computer Information Systems and I thoroughly enjoy working with the various OS I have worked with (Linux, MacOS, BSD, & Windows). In short, I'm here because I enjoy learning.
+## Experience
+IT-focused systems builder working with Linux, ThinkPads, and enterprise tooling.
+Focused on:
+- System administration (Linux/Windows)
+- Hardware modification (ThinkPads, firmware, BIOS)
+- SIEM & monitoring (Splunk, Azure)
+- Entrepreneurship (laptop resale, e-commerce)
+
+---
+
+## Currently Learning
+- LPIC-1 certification
+- Advanced Linux internals
+- Firmware flashing (coreboot/libreboot)
+- Windows Active Directory
+- Rockwell Automation
+- Business scaling & sourcing (Ebay, enterprise supply chains)
+
+---
+
+## Projects
+- ROI_TUI → Terminal-based ROI calculator (C++)
+- nvim_config → Custom Neovim config
+- tmux_config → Minimal tmux workflow
+- my_polygon.ai → Backend experiments in Go
+
+---
+
+## Contact
+- Phone Number: 7862811728
+- Email: Kevin5631noguera@gmail.com
