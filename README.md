@@ -20,14 +20,6 @@ Focused on:
 
 ---
 
-## Projects
-- ROI_TUI → Terminal-based ROI calculator (C++)
-- nvim_config → Custom Neovim config
-- tmux_config → Minimal tmux workflow
-- my_polygon.ai → Backend experiments in Go
-
----
-
 ## Contact
 - Phone Number: 7862811728
 - Email: Kevin5631noguera@gmail.com
