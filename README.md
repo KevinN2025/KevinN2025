@@ -2,7 +2,9 @@
 
 ## Experience
 3 years of Juniior System Administrator experience.
+
 Laptop refurbisher and seller on the side.
+
 Focused on:
 - System administration (Linux/Windows)
 - Hardware modification (ThinkPads, firmware, BIOS)
