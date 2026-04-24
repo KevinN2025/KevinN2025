@@ -6,8 +6,8 @@
 Laptop refurbisher and seller on the side.
 
 Focused on:
-- System administration (Linux/Windows)
-- Hardware modification (ThinkPads, firmware, BIOS)
+- System Administration (Linux/Windows)
+- Hardware Modification (Firmware, BIOS, EC)
 - SIEM & CSPs (Splunk, Crowdstrike, Azure, AWS, Vultr)
 - Entrepreneurship (laptop resale, e-commerce)
 
