@@ -14,5 +14,7 @@ Focused on:
 ---
 
 ## Contact
-- Phone Number: 786-281-1728
 - Email: Kevin5631noguera@gmail.com
+
+BTW if you need help administering or setting up a website I can help you out
+
