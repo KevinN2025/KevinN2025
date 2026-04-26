@@ -13,8 +13,11 @@ Focused on:
 
 ---
 
+### BTW
+If you need help administering or setting up a website I can help you out. 
+
 ## Contact
 - Email: Kevin5631noguera@gmail.com
 
-BTW if you need help administering or setting up a website I can help you out
+
 
