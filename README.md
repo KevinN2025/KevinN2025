@@ -11,7 +11,6 @@ Focused on:
 - SIEM & CSPs (Splunk, Crowdstrike, Azure, AWS, Vultr)
 - Entrepreneurship (laptop resale, e-commerce)
 
----
 ### BTW
 If you need help administering or setting up a website I can help you out. 
 
